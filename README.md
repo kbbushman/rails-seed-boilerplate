@@ -4,7 +4,7 @@
 
 The following technologies were used for this project:
 
-* Rubhy
+* Ruby
 * Rails
 * FFaker
 
